@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ed8f24f2-67d5-444f-9607-454c2cd2c01f/deploy-status)](https://app.netlify.com/sites/controllocalstorage/deploys) 
 
-Control Local Storage is an App. let you have a Full Control on the Local Storage Items (Check, Delete, Set or Get all Items) also Clear the Storage from all Items.
+Control Local Storage is an application that allows you to have full control of the local storage items: (Check, Delete, Set, Get all Items and Clear the Storage from all Items).
   
 ![Screenshot](preview.png)
 
